@@ -1,4 +1,5 @@
 working through GitHub desktop
 this line is added to understanding git pull from github desktop
 
-quicksort function added present in quicksort branch 
+quicksort function added present in quicksort branch
+updating quicksort function in quicksort branch
